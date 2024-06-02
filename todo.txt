@@ -28,5 +28,3 @@ first ace hole card doesn't show
 then these are your current cards needs a blank line between "reginald is standing"
 
 then another blank line and cancel the next print cards (or new line?)
-
-then #todo why us comuter bust at 13?
